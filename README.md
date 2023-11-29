@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# BARNEY
+
+**Puple Dinosaur or Tyrannosaurus rex**
