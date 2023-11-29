@@ -1,3 +1,3 @@
 # BARNEY
 
-**Puple Dinosaur or Gay Tyrannosaurus rex**
+**Puple Dinosaur or Tyrannosaurus rex**
